@@ -733,19 +733,6 @@ Ví Dụ:
 
 ```
 /sdcard/android/data/com.zing.zalo/files/
-├── Chats/
-│   ├── chat_1.db
-│   ├── chat_2.db
-│   └── ...
-├── Media/
-│   ├── Images/
-│   ├── Videos/
-│   ├── Audio/
-│   └── Documents/
-├── Stickers/
-├── Profiles/
-├── Cache/
-└── Other/
 ```
 
 #### Transfer Packet Structure
