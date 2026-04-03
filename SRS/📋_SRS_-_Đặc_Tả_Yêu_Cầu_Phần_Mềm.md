@@ -325,15 +325,6 @@ Ví Dụ:
 - Tracking: SharedPreferences + timestamp
 ```
 
-**Gói Coin Khả Dụng:**
-| Gói | Coin | Giá |
-|-----|------|-----|
-| Starter | 10 | $0.99 |
-| Popular | 50 | $4.99 |
-| Standard | 100 | $9.99 |
-| Premium | 500 | $49.99 |
-| Ultimate | 1000 | $99.99 |
-
 **Tiêu Chí Chấp Nhận:**
 - [ ] Số dư coin hiển thị chính xác
 - [ ] Chi phí được tính đúng
