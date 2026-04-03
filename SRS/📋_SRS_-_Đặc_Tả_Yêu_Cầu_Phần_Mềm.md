@@ -165,36 +165,6 @@ Xây dựng ứng dụng **Zalo Transfer** cho phép:
 | **Nhóm Bảo Mật** | Bảo vệ dữ liệu người dùng | Mã hóa, không lưu trữ đám mây |
 | **Nhóm Kinh Doanh** | Tạo doanh thu | Tỷ lệ chuyển đổi, giữ chân người dùng |
 | **Google Play** | Tuân thủ chính sách | Không vi phạm quy định |
-
-### 3. Persona Người Dùng
-
-#### Persona 1: Người Dùng Bình Thường (60%)
-
-**Tên:** Minh (28 tuổi, Hà Nội)  
-**Công Việc:** Nhân viên văn phòng  
-**Kinh Nghiệm Công Nghệ:** Trung bình  
-**Nhu Cầu:** Chuyển dữ liệu Zalo sang thiết bị mới nhanh chóng  
-**Điểm Đau:** Không biết cách chuyển, sợ mất dữ liệu  
-**Giải Pháp:** Ứng dụng với giao diện đơn giản, hướng dẫn rõ ràng
-
-#### Persona 2: Người Dùng Kỹ Thuật (30%)
-
-**Tên:** Anh (35 tuổi, TP.HCM)  
-**Công Việc:** Lập Trình Viên  
-**Kinh Nghiệm Công Nghệ:** Cao  
-**Nhu Cầu:** Chuyển dữ liệu Zalo với kiểm soát chi tiết  
-**Điểm Đau:** Các ứng dụng khác quá đơn giản, không linh hoạt  
-**Giải Pháp:** Tùy chọn nâng cao, API, log chi tiết
-
-#### Persona 3: Người Dùng Không Kỹ Thuật (10%)
-
-**Tên:** Bà (60 tuổi, Đà Nẵng)  
-**Công Việc:** Hưu Trí  
-**Kinh Nghiệm Công Nghệ:** Thấp  
-**Nhu Cầu:** Chuyển dữ liệu Zalo với sự hỗ trợ tối đa  
-**Điểm Đau:** Sợ nhấn sai nút, mất dữ liệu  
-**Giải Pháp:** Hướng dẫn video, xác nhận từng bước
-
 ---
 
 ## 📝 Yêu Cầu Chức Năng
